@@ -12,9 +12,10 @@ export default function Skills() {
                         Skills &amp; Technologies
                     </h1>
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-                        ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-                        possimus est.
+                        As a fullstack developer, I have a diverse set of skills that allow me to tackle various aspects of web development. On the frontend, I'm proficient in HTML, CSS, and JavaScript, with experience in popular libraries and frameworks such as React and Angular. I have a strong understanding of responsive design principles and a keen eye for creating visually appealing and intuitive user interfaces.
+                        On the backend, I'm skilled in server-side languages like Node.js and Express.js as well as database management using SQL and NoSQL databases. I have experience building RESTful APIs and integrating third-party services to create robust and scalable web applications.
+                        In addition to my technical skills, I have a solid foundation in software engineering principles, including version control, testing, and debugging. I'm also a quick learner, always eager to explore new technologies and stay up-to-date with industry trends. My combination of technical expertise and passion for learning makes me a valuable asset to any development team.
+
                     </p>
                 </div>
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
