@@ -37,16 +37,15 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=97+warren+st+new+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
-          />
+            src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3509.7811573009153!2d-81.35538989999999!3d28.3956771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dd87f66186a2bf%3A0xe5c45184866a5660!2s11818%20Bentry%20St%2C%20Orlando%2C%20FL%2032824!5e0!3m2!1sen!2sus!4v1711134408923!5m2!1sen!2sus" />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
               <p className="mt-1">
-                97 Warren St. <br />
-                New York, NY 10007
+                11818 Bentry Street <br />
+               Orlando Fl, 32824
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -72,8 +71,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+          I'm always eager to connect with like-minded individuals and explore new opportunities. Whether you have a project you'd like to collaborate on, a job opportunity you think I'd be a great fit for, or just want to say hello, feel free to reach out to me. You can contact me via email at dannyedouard14@gmail.com or connect with me on LinkedIn. I look forward to hearing from you!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
