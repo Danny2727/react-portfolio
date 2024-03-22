@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function About() {
     return (
         <section id="about">
@@ -31,7 +33,7 @@ export default function About() {
                     <img
                         className="object-cover object-center rounded"
                         alt="hero"
-                        src="./coding.svg"
+                        src="public/FullSizeRender.JPG"
                     />
                 </div>
             </div>
